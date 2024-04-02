@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+<<<<<<< HEAddD
 readme-file.
 =======
 readme-file
